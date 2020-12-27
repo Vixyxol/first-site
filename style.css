@@ -1,39 +1,3 @@
-nav,footer,header,aside {display: block;}
-
-html,body{
-	height: 100%;
-	width: 100%;
-	font-size: 100%;
-	line-height: 1;
-	font-size: 14px;
-	font-family: Arial;
-}
-input,button,textarea{font-family:inherit;}
-
-button{cursor: pointer;}
-a, a:visited{text-decoration: none;}
-a:hover{text-decoration: none;}
-
-h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
-
-
-.block {
-	font-size: 35px;
-}
-
-
-input {
-	max-width: 100%;
-	background-color: #fff;
-	border-radius: 20px;
-	border: 1px solid gray;
-	padding: 5px 10px;
-	color: black;
-
-}
-
-
-
 
 
 
